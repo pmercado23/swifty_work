@@ -1,0 +1,13 @@
+To do for this frist app:
+Create layout
+Create guess
+get value from slider
+add hit button
+show popup
+game info
+slider w/ value from 1-100
+calc gamescore
+restart game
+make lanscape
+:)
+
